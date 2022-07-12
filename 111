@@ -1,0 +1,6 @@
+import os
+import shutil
+b='downloads'
+print(os.listdir(b))
+
+##only in command prompt

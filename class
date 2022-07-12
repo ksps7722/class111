@@ -1,0 +1,4 @@
+import os
+a='desktop\class\Badminton.gif'
+root,extension=os.path.splitext(a)
+print(root,extension)
